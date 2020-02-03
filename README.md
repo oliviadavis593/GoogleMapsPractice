@@ -1,2 +1,0 @@
-# GoogleMapsPractice
-Created with CodeSandbox
